@@ -19,7 +19,7 @@ I am a cybersecurity student at NIIT Porthacourt, passionate about offensive and
   | Penetration Testing | | |
   | Log Analysis | | |
   | Digital Forensic | | |
-  | OSINT | | |
+  | OSINT | Conducted an OSINT investigation on a target Organization| https://github.com/BENNY-JEAN/osint-project- |
   | Treat Hunting | | |
   | Social Hunting | | |
   | Social Engineering | | |
