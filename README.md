@@ -18,7 +18,7 @@ I am a cybersecurity student at NIIT Porthacourt, passionate about offensive and
   | ------ | ------------ | ---------- |
   | Penetration Testing | | |
   | Log Analysis | Analysed IIS ans Windows Event Logs to identify attacks | https://github.com/BENNY-JEAN/Log-analysis- |
-  | Malware Analysis |
+  | Malware Analysis | | https://github.com/BENNY-JEAN/Malware--analysis--project- |
   | Digital Forensic | | |
   | OSINT | Conducted an OSINT investigation on a target Organization| https://github.com/BENNY-JEAN/osint-project- |
   | Treat Hunting | | |
